@@ -1,0 +1,7 @@
+Bonjour,
+
+Vous trouverez un sql de base dans le cas inopportun
+où les lignes de mysql.php n'arriverais pas à créer
+la base de données.
+
+Cordialement, :)
